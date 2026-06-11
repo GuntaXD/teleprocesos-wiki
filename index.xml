@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Teleprocesos - Wiki 💻​</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Teleprocesos - Wiki 💻​</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>00 - Introducción</title>
+    <link>https://quartz.jzhao.xyz/00---Introducci%C3%B3n</link>
+    <guid>https://quartz.jzhao.xyz/00---Introducci%C3%B3n</guid>
+    <description>En los inicios de la informática, el crecimiento de las redes de computadoras se vio obstaculizado por la falta de compatibilidad; los fabricantes desarrollaban sus propios sistemas cerrados y estos no podían comunicarse con los de otras marcas.</description>
+    <pubDate>Wed, 10 Jun 2026 23:57:32 GMT</pubDate>
+  </item><item>
+    <title>01 - Modelo OSI</title>
+    <link>https://quartz.jzhao.xyz/01---Modelo-OSI</link>
+    <guid>https://quartz.jzhao.xyz/01---Modelo-OSI</guid>
+    <description>Introducción § Históricamente, la expansión masiva de las redes de datos se vio obstaculizada por la falta de compatibilidad, ya que cada proveedor desarrollaba su propio hardware y software de forma aislada.</description>
+    <pubDate>Wed, 10 Jun 2026 23:58:26 GMT</pubDate>
+  </item><item>
+    <title>02 - Modelo TCP-IP</title>
+    <link>https://quartz.jzhao.xyz/02---Modelo-TCP-IP</link>
+    <guid>https://quartz.jzhao.xyz/02---Modelo-TCP-IP</guid>
+    <description>Concepto general § El modelo TCP/IP (Transmission Control Protocol / Internet Protocol) es el modelo práctico real sobre el que se construyó y funciona la red Internet actual.</description>
+    <pubDate>Thu, 11 Jun 2026 00:10:49 GMT</pubDate>
+  </item><item>
+    <title>03 - Comparación entre OSI y TCP-IP</title>
+    <link>https://quartz.jzhao.xyz/03---Comparaci%C3%B3n-entre-OSI-y-TCP-IP</link>
+    <guid>https://quartz.jzhao.xyz/03---Comparaci%C3%B3n-entre-OSI-y-TCP-IP</guid>
+    <description> Similitudes § • Ambos se dividen en capas • Ambos tienen capas de aplicación, aunque incluyen servicios muy distintos • Ambos tienen capas de transporte y de red similares • Se supone que la tecnología es de conmutación por paquetes (no de conmutación por circuito) • Los profesionales de networking deben conocer ambos Diferencias § • IP combina las funciones de la capa de presentación y de sesión en la capa de aplicación • IP combina la capas de enlace de datos y la capa física del modelo OSI en una sola capa • IP parece ser más simple porque tiene menos capas • Los protocolos TCP/IP son los estándares en torno a los cuales se desarrolló la Internet, de modo que la credibilidad del IP se debe en gran parte a sus protocolos.</description>
+    <pubDate>Thu, 11 Jun 2026 00:59:28 GMT</pubDate>
+  </item><item>
+    <title>04 - Uso de los modelos OSI y TCP-IP</title>
+    <link>https://quartz.jzhao.xyz/04---Uso-de-los-modelos-OSI-y-TCP-IP</link>
+    <guid>https://quartz.jzhao.xyz/04---Uso-de-los-modelos-OSI-y-TCP-IP</guid>
+    <description> Aunque Internet funciona bajo el estándar práctico de TCP/IP, a nivel educativo se prefiere el modelo OSI por tres razones clave: Universalidad: Es un marco teórico global, genérico e independiente de cualquier marca o protocolo.</description>
+    <pubDate>Thu, 11 Jun 2026 01:03:25 GMT</pubDate>
+  </item><item>
+    <title>Bienvenido a Teleprocesos - Wiki</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Bienvenidos § Este espacio está dedicado al estudio, análisis y comparación de los dos modelos de referencia fundamentales en el networking: el Modelo OSI y el Modelo TCP/IP.</description>
+    <pubDate>Wed, 10 Jun 2026 23:11:20 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
